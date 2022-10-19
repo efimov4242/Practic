@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\obj\Debug\net6.0\Task19102022.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\obj\Debug\net6.0\Task19102022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\obj\Debug\net6.0\Task19102022.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\obj\Debug\net6.0\Task19102022.AssemblyInfo.cs
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\obj\Debug\net6.0\Task19102022.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\bin\Debug\net6.0\Task19102022.exe
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\bin\Debug\net6.0\Task19102022.deps.json
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\bin\Debug\net6.0\Task19102022.runtimeconfig.json
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\bin\Debug\net6.0\Task19102022.dll
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\bin\Debug\net6.0\ref\Task19102022.dll
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\bin\Debug\net6.0\Task19102022.pdb
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\obj\Debug\net6.0\Task19102022.dll
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\obj\Debug\net6.0\ref\Task19102022.dll
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\obj\Debug\net6.0\Task19102022.pdb
+C:\Users\admin\Desktop\GB\C#\Practic\Task19102022\obj\Debug\net6.0\Task19102022.genruntimeconfig.cache
