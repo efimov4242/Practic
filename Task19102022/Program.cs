@@ -34,3 +34,13 @@ var capitalized = name.Substring(0, 1).ToUpper()
     + name.Substring(1).ToLower();
 Console.WriteLine(capitalized);
 // END
+
+
+// Задача №5
+// найти в документации к языку нужный метод, которым можно вставить одну строку в другую. Результат должен получится таким: War of the Five Kings
+
+var war = "War of the Kings";
+var missingWord = "Five ";
+
+var kingWordIndex = war.IndexOf('K');
+Console.WriteLine(war.Insert(kingWordIndex, missingWord));
