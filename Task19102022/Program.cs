@@ -44,3 +44,12 @@ var missingWord = "Five ";
 
 var kingWordIndex = war.IndexOf('K');
 Console.WriteLine(war.Insert(kingWordIndex, missingWord));
+
+
+var emoji = "-(";
+
+// BEGIN (write your solution here)
+emoji = emoji.Replace("(",")");
+var eyes = ":";
+System.Console.WriteLine(eyes + emoji);
+// END
