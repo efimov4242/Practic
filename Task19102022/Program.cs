@@ -46,10 +46,16 @@ var kingWordIndex = war.IndexOf('K');
 Console.WriteLine(war.Insert(kingWordIndex, missingWord));
 
 
-var emoji = "-(";
 
-// BEGIN (write your solution here)
-emoji = emoji.Replace("(",")");
-var eyes = ":";
-System.Console.WriteLine(eyes + emoji);
+// Задача №6
+// В переменной emoji находится текстовый грустный смайлик -(. Ваша задача сделать этот смайлик веселый с помощью двух преобразований:
+
+// Добавить слева глаза :
+// Заменить ( на )
+// Должно получиться: :-). Выведите его на экран.
+
+var emoji = "-(";
+// BEGIN
+var happyEmoji = ":" + emoji.Replace('(', ')');
+Console.WriteLine(happyEmoji);
 // END
