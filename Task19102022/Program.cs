@@ -15,3 +15,10 @@ var lastIndex = text.Length - 1;
 Console.WriteLine($"First: {text[0]}");
 Console.WriteLine($"Last: {text[lastIndex]}");
 // END
+
+
+var email = " SupporT@hexlet.io\n";
+
+// BEGIN (write your solution here)
+var newEmail = email.Trim().ToLower();
+Console.WriteLine(newEmail);
